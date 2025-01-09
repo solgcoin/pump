@@ -2,5 +2,5 @@
   "name": "SUP Token",
   "symbol": "SUP",
   "description": "Pump fun token",
-  "image": "https://github.com/solgcoin/pump/blob/main/icon.png?raw=true"
+  "image": "https://raw.githubusercontent.com/solgcoin/pump/refs/heads/main/icon.png"
 }
